@@ -16,7 +16,7 @@ __version__ = '1.0.0'
 class SettingsScreen(GridLayout):
 
 	def __init__(self, **kwargs):
-		super(LoginScreen, self).__init__(**kwargs)
+		super(SettingsScreen, self).__init__(**kwargs)
 		self.cols = 2
 		self.add_widget(Label(text='Warmup:'))
 		self.warmup = TextInput(multiline=False,text="10")
