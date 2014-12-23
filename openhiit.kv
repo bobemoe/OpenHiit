@@ -1,0 +1,32 @@
+<OpenHiit>:
+	rows: 2
+	GridLayout:
+		cols: 2
+		Label:
+			text: "Warmup:"
+		TextInput:
+			id: warmup
+			multiline: False
+			text: "10"
+		Label:
+			text: "Rounds:"
+		TextInput:
+			id: rounds
+			multiline: False
+			text: "5"
+		Label:
+			text: "Work:"
+		TextInput:
+			id: work
+			multiline: False
+			text: "20"
+		Label:
+			text: "Rest:"
+		TextInput:
+			id: rest
+			multiline: False
+			text: "10"
+	Button: 
+		id: button
+		text: "Start"
+		on_press: root.toggle()	
