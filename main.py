@@ -1,5 +1,5 @@
 import kivy
-kivy.require('1.7.2') # replace with your current kivy version !
+kivy.require('1.8.0')
 
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
