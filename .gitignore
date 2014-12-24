@@ -1,3 +1,3 @@
 /.buildozer
-/bin
+/bin/*debug*
 /history.json
