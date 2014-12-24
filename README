@@ -1,5 +1,7 @@
 HIIT (High Intensity Interval Training) Timer App
 
+Set the warmup time, number of rounds, work and rest times.  Test to speech countdown 3,2,1 as each work ar rest round ends. Defaults to the Tabata settings. Stores a history of your settings for easy load. Only very basic at the moment, but does what I need.
+
 This project uses python and kivy to build an Android app.
 
 Inspired and based on http://1.log.brandonthomson.com/2009/06/python-based-hiit-workout-timer.html but refactored so much that none of the original code exists!
@@ -7,8 +9,6 @@ Inspired and based on http://1.log.brandonthomson.com/2009/06/python-based-hiit-
 Using https://github.com/brousch/saythis-kivy-intro-app as a base for the Text to Speach.
 
 Icon taken from http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Apps-preferences-desktop-accessibility-icon.html
-
-Only very basic at the moment, but does what I need.
 
 Only tested on Android but should work on iOS and other platforms supported by Kivy, but you'll have to build your own (see kivy docs)
 
