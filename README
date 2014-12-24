@@ -8,4 +8,9 @@ Using https://github.com/brousch/saythis-kivy-intro-app as a base for the Text t
 
 Icon taken from http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Apps-preferences-desktop-accessibility-icon.html
 
-Only tested on Android, but should work on iOS and other platforms supported by Kivy.
+Only very basic at the moment, but does what I need.
+
+Only tested on Android but should work on iOS and other platforms supported by Kivy, but you'll have to build your own (see kivy docs)
+
+Just want to download the .apk?
+https://github.com/bobemoe/OpenHiit/blob/master/bin/OpenHIIT-1.0.2-release-unsigned.apk?raw=true
