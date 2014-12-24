@@ -1,0 +1,9 @@
+HIIT (High Intensity Interval Training) Timer App
+
+This project uses python and kivy to build an Android app.
+
+Inspired and based on http://1.log.brandonthomson.com/2009/06/python-based-hiit-workout-timer.html but refactored so much that none of the original code exists!
+
+Using https://github.com/brousch/saythis-kivy-intro-app as a base for the Text to Speach.
+
+Only tested on Android, but should work on iOS and other platforms supported by Kivy.
