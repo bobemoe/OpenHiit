@@ -21,7 +21,7 @@ Build
 
 This project is coded in Python using [Kivy](http://kivy.org).
 
-Only tested on Android buit by [Buildozer](https://buildozer.io/) on linux using the buildozer.spec provided. 
+Only tested on Android, buit by [Buildozer](https://buildozer.io/) on linux using the buildozer.spec provided. 
 
 Should work on iOS and other platforms, but you'll have to build your own package:
 
