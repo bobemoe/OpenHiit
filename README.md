@@ -3,15 +3,14 @@ OpenHIIT
 
 **HIIT (High Intensity Interval Training) Timer App**
 
-Currently bare bones, but fully functional. [ScreenShot](https://github.com/bobemoe/OpenHiit/blob/master/screenshot.png)
+Currently bare bones, but fully functional.
 
 * Set the warm up time, number of rounds, work and rest times.
-* Text to speech countdown “3,2,1” as each work or rest period ends.
 * Defaults to the Tabata settings.
 * Stores a history of your settings for easy selection
 * 'Start' and 'Complete' counts for each history item
-
-
+* Text to speech countdown “3,2,1” as each work or rest period ends.
+* View the [ScreenShot](https://github.com/bobemoe/OpenHiit/blob/master/screenshot.png)
 
 Download
 --------
@@ -22,9 +21,10 @@ Build
 
 This project is coded in Python using [Kivy](http://kivy.org).
 
-Only tested on Android and can be built using [Buildozer](https://buildozer.io/) and the buildozer.spec provided. 
+Only tested on Android buit by [Buildozer](https://buildozer.io/) on linux using the buildozer.spec provided. 
 
 Should work on iOS and other platforms, but you'll have to build your own package:
+
 http://kivy.org/docs/guide/packaging.html
 
 Credits
