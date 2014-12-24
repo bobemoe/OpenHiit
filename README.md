@@ -3,7 +3,11 @@ OpenHIIT
 
 *HIIT (High Intensity Interval Training) Timer App*
 
-Set the warm up time, number of rounds, work and rest times.  Text to speech countdown “3,2,1” as each work or rest period ends. Defaults to the Tabata settings. Stores a history of your settings for easy selection. Only very basic at the moment, but does what I need.
+* Set the warm up time, number of rounds, work and rest times.
+* Text to speech countdown “3,2,1” as each work or rest period ends.
+* Defaults to the Tabata settings.
+* Stores a history of your settings for easy selection
+* Only very basic at the moment, but does what I need.
 
 Download
 --------
