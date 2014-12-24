@@ -24,7 +24,7 @@ http://kivy.org/docs/guide/packaging.html
 Credits
 -------
 
-Inspired by and based on http://1.log.brandonthomson.com/2009/06/python-based-hiit-workout-timer.html but re-factored so much that none of the original code exists!
+Inspired by and based on http://1.log.brandonthomson.com/2009/06/python-based-hiit-workout-timer.html but re-factored so much, that none of the original code exists!
 
 Using https://github.com/brousch/saythis-kivy-intro-app for the Text to Speech.
 
