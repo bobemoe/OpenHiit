@@ -6,4 +6,6 @@ Inspired and based on http://1.log.brandonthomson.com/2009/06/python-based-hiit-
 
 Using https://github.com/brousch/saythis-kivy-intro-app as a base for the Text to Speach.
 
+Icon taken from http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Apps-preferences-desktop-accessibility-icon.html
+
 Only tested on Android, but should work on iOS and other platforms supported by Kivy.
