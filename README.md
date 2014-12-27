@@ -12,8 +12,9 @@ OpenHIIT
 
 To Do / Known Bugs
 ------------------
-* The .apk provided in the repo is unsigned and will probably not install.  You will need to build and push this to your device yourself. I am working on signing the app. I would like to submit to [F-Droid](https://f-droid.org/) in the near future.
-* The 'Load from history...' drop down shows info about the saved items (e.g work and rest times, stared and complete counts etc) but is not very clear which number means what unless you know the format:  " (warmup) rounds x work <-> rest [ complete / started ] " this could do with a more user friendly display, and also ordering by the most complete first.
+The .apk provided in the repo is unsigned and will probably not install.  You will need to build and push this to your device yourself. I am working on signing the app. I would like to submit to [F-Droid](https://f-droid.org/) in the near future.
+
+The 'Load from history...' drop down shows info about the saved items (e.g work and rest times, stared and complete counts etc) but is not very clear which number means what unless you know the format:  " (warmup) rounds x work <-> rest [ complete / started ] " this could do with a more user friendly display, and also ordering by the most complete first.
 
 Download
 --------
