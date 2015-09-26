@@ -14,7 +14,7 @@ from saythis.ttsspeak import ttsSpeak
 
 from kivy.storage.jsonstore import JsonStore
 
-__version__ = '1.0.2'
+__version__ = '1.0.3'
 
 class OpenHiit(GridLayout):
 	mode='stopped'
@@ -122,6 +122,14 @@ class OpenHiitApp(App):
 		cheese=OpenHiit()
 		cheese.populate_dropdown()
 		return cheese
+	
+	def on_pause(self):
+		# Here you can save data if needed
+		return True
+
+	def on_resume(self):
+		# Here you can check if any data needs replacing (usually nothing)
+		pass
 
 if __name__ == '__main__':
 	OpenHiitApp().run()
